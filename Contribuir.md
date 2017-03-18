@@ -4,6 +4,6 @@
 * Crea una nueva branch describiendo la contribución
 * Realiza modificaciones a un archivo en específico o crea uno nuevo
 * Realiza commit
-* Abre una pull request
-* Comenta para aprovar
-* Se realiza merge
+* Inmediatamente abre una pull request
+* Realiza un comentario para que sea aprobada tu pull request
+* Se procede al merge
