@@ -6,4 +6,4 @@ GitHub es una plataforma de alojamiento de código para control de versiones y t
 Flujo de trabajo:
 
 Creación de repositorio (master branch) 
--> branching -> commits -> pull request -> deploy -> merge
+-> branching -> commits -> pull request -> review -> merge
